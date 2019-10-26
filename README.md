@@ -61,7 +61,7 @@ Clone this repository :
 
 ```
 git clone https://github.com/victor-grajski/cal-hacks6-front-end.git
-cd tinder-react-native
+cd cal-hacks6-front-end
 ```
 
 Install packages :
