@@ -79,10 +79,9 @@ react-native run-android
 ```
 
 To hot reload:
-* Enable `⌘R` in the Simulator by going to Hardware > Keyboard and Checking `Enable Keyboard Shortcuts to Device`
-* Edit any file
-* Hit `⌘R`!
-
+* Enable keyboard shortcuts in the Simulator by going to Hardware > Keyboard and Checking `Enable Keyboard Shortcuts to Device`
+* Open dev tools with `⌘D` and tap `Enable Hot Reloading`
+* Edit any file and save!
 
 ## Props
 
