@@ -78,6 +78,11 @@ react-native run-ios --simulator="iPhone 11"
 react-native run-android
 ```
 
+To hot reload:
+* Enable `⌘R` in the Simulator by going to Hardware > Keyboard and Checking `Enable Keyboard Shortcuts to Device`
+* Edit any file
+* Hit `⌘R`!
+
 
 ## Props
 
