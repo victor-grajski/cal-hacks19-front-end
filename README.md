@@ -50,7 +50,7 @@ This project was inspired by this [amazing Kishore's work on Dribbble](https://d
 
 ## Installation and usage
 
-Be sure, you have installed all dependencies and applications to run React Native project on your computer : [Getting Started with React Native](https://facebook.github.io/react-native/docs/getting-started).
+Be sure, you have installed all dependencies and applications to run React Native project on your computer (React Native CLI Quickstart): [Getting Started with React Native](https://facebook.github.io/react-native/docs/getting-started).
 
 This project works fine for iOS but in Android version there are serious UI problems because I've only worked on iOS.
 
@@ -60,7 +60,7 @@ This project works fine for iOS but in Android version there are serious UI prob
 Clone this repository :
 
 ```
-git clone https://github.com/stevenpersia/tinder-react-native.git
+git clone https://github.com/victor-grajski/cal-hacks6-front-end.git
 cd tinder-react-native
 ```
 
@@ -73,7 +73,7 @@ npm install
 When installation is complete, run with version of your choice :
 
 ```bash
-react-native run-ios
+react-native run-ios --simulator="iPhone 11"
 # or
 react-native run-android
 ```
